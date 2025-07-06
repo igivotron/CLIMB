@@ -10,22 +10,6 @@ This project allows the creation of users and climbing walls, tracking scores ba
 
 ---
 
-## 🗂️ Project Structure
-
-/
-├── server/ # Flask backend API
-│ ├── main.py # Main Flask API
-│ ├── ELO.py # ELO algorithm for score updates
-│ └── data/ # SQLite databases and logs
-├── app/ # Flutter mobile application
-│ ├── lib/
-│ │ ├── main.dart # Main Flutter entry point
-│ │ └── ... # UI, services, models, etc.
-└── README.md # This file
-
-
----
-
 ## 🚀 Features
 
 ### Backend (Flask API)
